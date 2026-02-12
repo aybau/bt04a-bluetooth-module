@@ -37,18 +37,10 @@ pip install .
 pip install bt04a
 ```
 
-## Compatibility
-
-| Development Board | Normal Operation | Operation Failure | Untested | Notes |
-| ------------ | :--: | :----: | :----: | :--: |
-| Arduino UNO | √ | | | |
-| Arduino Mega | √ | | | |
-| Arduino Leonardo | √ | | | |
-| ESP8266 | √ | | | Large Memory Support |
-| micro:bit | √ | | | Large memory support |
 
 ## Historical Versions
 Release of V1.0 on February 9, 2026
 
 ## Author
+
 Written by aybau,2026.
