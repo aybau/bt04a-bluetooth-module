@@ -43,13 +43,13 @@ pip install bt04a
 | 开发板 | 正常运行 | 运行失败 | 未测试 | 备注 |
 | ------------ | :--: | :----: | :----: | :--: |
 | Arduino UNO | √ | | | |
-| Arduino Mega | √ | | | |
 | Arduino Leonardo | √ | | | |
-| ESP8266 | √ | | | 大内存支持 |
+| Firebeetle ESP32
 | micro:bit | √ | | | 大内存支持 |
 
 ## 历史版本
 2026.2.9 V1.0发布
 
 ## 作者
+
 Written by aybau,2026.
